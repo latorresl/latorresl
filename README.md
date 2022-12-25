@@ -1,5 +1,7 @@
 # 💫 About Me:
-Rookie Dev👾C 💻, C++ and Python🐍Computational Statistics, AI and Machine Learning enthusiast🤖Physics Student🔭🧪🪐
+Rookie Dev👾C 💻, C++ and Python🐍Computational Statistics, AI and Machine Learning enthusiast🤖
+Physics Student🔭🧪🪐
+Currently interested in R📚 and frontend development🕸
 
 
 # 💻 Tech Stack:
