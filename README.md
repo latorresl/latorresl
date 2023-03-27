@@ -14,6 +14,9 @@ Rookie Dev👾C 💻, C++ and Python🐍<br>Computational Statistics, AI, Machin
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuantVortex137&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QuantVortex137&theme=2077&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantVortex137&theme=2077)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantVortex137&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuantVortex137&theme=2077)
+
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=QuantVortex137&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
