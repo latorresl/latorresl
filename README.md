@@ -1,6 +1,8 @@
 # 💫 About Me
 Rookie Dev👾C 💻, C++ and Python🐍<br>Computational Statistics, AI, Machine Learning and Cybersecurity enthusiast🤖<br>Physics Student🔭🧪🪐<br>Currently interested in R📚 and FrontEnd development🕸<br>Father of Michis🐈‍⬛🐈
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Math&duration=2000&color=8019F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=450&height=100&lines=Simple+Armonic+Oscilator+Solution;%F0%9D%91%A6%3D%F0%9D%90%B4%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%AC(%F0%9D%91%A4%F0%9D%91%A1%2B%F0%9D%9C%99))](https://git.io/typing-svg)
+
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QV-137) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not_qv137) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/QV-137) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/137-Qv)
 
