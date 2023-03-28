@@ -1,5 +1,9 @@
 # 💫 About Me
-Rookie Dev👾C 💻, C++ and Python🐍<br>Computational Statistics, AI, Machine Learning and Cybersecurity enthusiast🤖<br>Physics Student🔭🧪🪐<br>Currently interested in R📚 and FrontEnd development🕸<br>Father of Michis🐈‍⬛🐈
+* Rookie Dev👾C 💻, C++ and Python🐍<br>
+* Computational Statistics, AI, Machine Learning and Cybersecurity enthusiast🤖<br>
+* Currently interested in R📚 and Data Science🕸<br>
+* Father of Michis🐈‍⬛🐈<br>
+* Physics Student🔭🧪🪐<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Math&duration=2000&color=8019F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=450&height=70&lines=Simple+Armonic+Oscilator+Solution;%F0%9D%91%A6%3D%F0%9D%90%B4%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%AC(%F0%9D%91%A4%F0%9D%91%A1%2B%F0%9D%9C%99))](https://git.io/typing-svg)
 
