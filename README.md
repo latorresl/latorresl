@@ -22,7 +22,6 @@ Rookie Dev👾C 💻, C++ and Python🐍<br>Computational Statistics, AI, Machin
 ![](https://github-profile-trophy.vercel.app/?username=QuantVortex137&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-<!-- <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=137_Qv&theme=tokyonight&response=true&border=true&time=true&icon=moon"/></a> -->
 <a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=137_Qv&theme=tokyonight&icon=moon&time=true&response=true&border=true"/></a>
 
 
