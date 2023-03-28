@@ -1,7 +1,6 @@
 # 💫 About Me
 Rookie Dev👾C 💻, C++ and Python🐍<br>Computational Statistics, AI, Machine Learning and Cybersecurity enthusiast🤖<br>Physics Student🔭🧪🪐<br>Currently interested in R📚 and FrontEnd development🕸<br>Father of Michis🐈‍⬛🐈
 
-
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QV-137) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not_qv137) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/QV-137) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/137-Qv)
 
@@ -24,12 +23,11 @@ Rookie Dev👾C 💻, C++ and Python🐍<br>Computational Statistics, AI, Machin
 ## 🐦 Latest Tweet
 <a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=137_Qv&theme=tokyonight&icon=moon&time=true&response=true&border=true"/></a>
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 <br>
+
 ### Music
- 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=deadshot-2003&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=deadshot-2003&redirect=true)
 
 ---
