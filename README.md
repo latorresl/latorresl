@@ -16,7 +16,6 @@ Rookie Dev👾C 💻, C++ and Python🐍<br>Computational Statistics, AI, Machin
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantVortex137&theme=2077)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantVortex137&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuantVortex137&theme=2077)
-
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=QuantVortex137&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
@@ -26,10 +25,10 @@ Rookie Dev👾C 💻, C++ and Python🐍<br>Computational Statistics, AI, Machin
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### Music<br
+<br>
+### Music
  
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=deadshot-2003&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=deadshot-2003&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=deadshot-2003&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=deadshot-2003&redirect=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=QuantVortex137&icon=6&color=11)](https://visitcount.itsvg.in)
