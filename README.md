@@ -27,6 +27,9 @@ Rookie Dev👾C 💻, C++ and Python🐍<br>Computational Statistics, AI, Machin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
+### My Music
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=deadshot-2003&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=deadshot-2003&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
+
 ---
 [![](https://visitcount.itsvg.in/api?id=QuantVortex137&icon=6&color=11)](https://visitcount.itsvg.in)
 
