@@ -11,7 +11,7 @@ Rookie Dev👾C 💻, C++ and Python🐍<br>Computational Statistics, AI, Machin
 ![](https://github-readme-stats.vercel.app/api?username=QuantVortex137&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=QuantVortex137&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantVortex137&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-<-- Es posible usar el tema "2077" en las siguientes estadísticas para que parezca algo de Cyberpunk 2077 --!>
+<!-- Es posible usar el tema "2077" en las siguientes estadísticas para que parezca algo de Cyberpunk 2077 -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuantVortex137&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QuantVortex137&theme=tokyonight&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantVortex137&theme=tokyonight)<br/>
