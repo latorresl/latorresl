@@ -40,9 +40,6 @@ PAST TECH BADGES -->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=QuantVortex137&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=137_Qv&theme=tokyonight&icon=moon&time=true&response=true&border=true"/></a>
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 <br>
