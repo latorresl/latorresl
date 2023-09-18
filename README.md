@@ -40,8 +40,8 @@ PAST TECH BADGES -->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=QuantVortex137&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<!--## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)-->
 <br>
 
 ### 🎶 Music
