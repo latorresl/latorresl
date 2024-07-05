@@ -1,5 +1,5 @@
 # 💫 About Me
-* Rookie Dev👾C/C++ 💻, Python🐍 & Web Techs<br>
+* I+D👾C, R 💻, Python🐍 & Web Techs<br>
 * Computational Statistics, AI, Machine Learning and Cybersecurity enthusiast🤖<br>
 * Currently interested in Web Development📚 and Data Science🕸<br>
 * Father of Michis🐈‍⬛🐈<br>
