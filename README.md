@@ -1,9 +1,9 @@
 # 💫 About Me
 * I+D👾C, R 💻, Python🐍 & Web Techs<br>
-* Computational Statistics, AI, Machine Learning and Cybersecurity enthusiast🤖<br>
-* Currently interested in Web Development📚 and Data Science🕸<br>
-* Father of Michis🐈‍⬛🐈<br>
-* Physics Student🔭🧪🪐<br>
+* Computational Statistics, AI and Machine Learning enthusiast🤖<br>
+* Currently working in Evolutive Algorithms and CNN📚<br>
+* Physics Student interested in Particle and Nuclear Physics as well as Materials Science🔭🧪🪐<br>
+* IBM Qiskit Fall Fest Co-Organizer at Sciences & Engineering Division, UG-CL
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Math&duration=2000&color=8019F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=525&height=70&lines=Simple+Armonic+Oscilator+Solution+Is+All+You+Need+🌱;%F0%9D%91%A6%3D%F0%9D%90%B4%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%AC(%F0%9D%91%A4%F0%9D%91%A1%2B%F0%9D%9C%99))](https://git.io/typing-svg)
 
