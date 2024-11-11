@@ -28,11 +28,11 @@ PAST TECH BADGES -->
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=QuantVortex137&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><!-- Most Used Languages -->
 <!-- Es posible usar el tema "2077" en las siguientes estadísticas para que parezca algo de Cyberpunk 2077 -->
 # 📊 More GitHub Stats...
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuantVortex137&theme=tokyonight)<!-- General Stats, again... -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QuantVortex137&theme=tokyonight&utcOffset=8)<!-- Commits, again... -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantVortex137&theme=tokyonight)<br/><!-- Profile Details -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantVortex137&theme=tokyonight)<!-- Top Languages by Repo -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuantVortex137&theme=tokyonight)<!-- Top Languages by Commit -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=latorresl&theme=tokyonight)<!-- General Stats, again... -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=latorresl&theme=tokyonight&utcOffset=8)<!-- Commits, again... -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latorresl&theme=tokyonight)<br/><!-- Profile Details -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=latorresl&theme=tokyonight)<!-- Top Languages by Repo -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=latorresl&theme=tokyonight)<!-- Top Languages by Commit -->
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=QuantVortex137&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
