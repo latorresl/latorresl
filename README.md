@@ -1,21 +1,26 @@
-# 💫 About Me
-* I+D👾C, R 💻, Python🐍 & Web Techs<br>
-* Computational Statistics, AI and Machine Learning enthusiast🤖<br>
-* Currently working in Evolutive Algorithms and CNN📚<br>
-* Physics Student interested in Particle and Nuclear Physics as well as Materials Science🔭🧪🪐<br>
-* IBM Qiskit Fall Fest Co-Organizer and Speaker at Sciences & Engineering Division, UG-CL
+# About Me :O
+* I+D, C, R , Python & Web Techs<br>
+* Computational Statistics, AI and Machine Learning<br>
+* Currently working in Evolutive Algorithms and CNN<br>
+* Physics Student interested in Particle and Nuclear Physics as well as Materials Science<br>
+* IBM Qiskit Fall Fest Co-Organizer and Speaker at Sciences & Engineering Division, UG-CL 2024-2025
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Math&duration=2000&color=8019F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=525&height=70&lines=Simple+Armonic+Oscilator+Solution+Is+All+You+Need;%F0%9D%91%A6%3D%F0%9D%90%B4%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%AC(%F0%9D%91%A4%F0%9D%91%A1%2B%F0%9D%9C%99))](https://git.io/typing-svg) -->
 
 <!-- # 🌐 Socials -->
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QV-137) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/la_torresl)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/137-Qv)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/la_torresl)  
 
 # 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,c,github,html,css,js,matlab,mysql,tensorflow,pytorch,md,latex,vscode,netlify,notion,sketchup&perline=5" />
+    <img src="https://skillicons.dev/icons?i=py,r,c,github,html,css,js,matlab,tensorflow,pytorch,md,latex,vscode,netlify,notion,sketchup&perline=5" />
   </a>
 </p>
+
+# Main Projects
+- MTA modelling using Kolmogorov-Arnold Network and Genetic Algorithms (Python)
+- Monte Carlo simulation of incident muon beams in Aluminum material (C++, Geant4)
+- FEM for acoustic waves passing through porous media (COMSOL, Matlab, Python)
 
 <!--
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
